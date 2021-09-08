@@ -1,16 +1,14 @@
 ---
-name: Tails Azimuth
+name: Ben Hanan Subendran
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Former All-Rounder 🏏for SXBC 😜
+company: Bassist 🎸 @ HananStems Records
+email: benhanan.subendran@gmail.com
+twitter: https://twitter.com/hanancs
+linkedin: https://www.linkedin.com/in/benhanan-subendran/
+github: https://github.com/hanancs
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Ben is a prolific audio engineer & LEB certied with 2+ years of experience, skilled in live music production and cabling/patching. Created and produced recordings of live acts with Steinberg Cubase, Pro Tools, Studio One and Ableton Live as Digitalized music composition & production.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He had collaborated with many artists/bands namely MMC, 3-Githo, EaddB, Cornerstone, i2, SubWar, Nutz, Ashap SL, Sajjaya, Z-Major especially his university band Sisi Orchestra 2019 where He learnt alot indeed. Enthusiastic session musician who can play Guitars, Piano, Synth, Percussions, Accordian, Melodica, Harmonium, Seaboard, Mendolin, Banjo, Xylophone and Harpejji.
