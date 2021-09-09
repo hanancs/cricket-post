@@ -4,7 +4,7 @@ const siteMetadata = {
   headerTitle: 'Cricket Post',
   description: 'Want instant updates? go to Twitter 😂',
   language: 'en-us',
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://cricket-post.vercel.app/',
   siteRepo: 'https://github.com/hanancs/cricket-post',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
